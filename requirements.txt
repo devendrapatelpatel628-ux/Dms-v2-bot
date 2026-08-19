@@ -1,0 +1,42 @@
+# Telegram Bot Framework
+aiogram
+
+# Telegram Userbot Framework
+telethon==1.34.0
+
+# Proxy Support
+PySocks==1.7.1
+python-socks==2.4.3
+aiohttp-socks==0.8.4
+
+# HTTP Requests (Proxy Hunting)
+aiohttp==3.9.3
+requests==2.31.0
+beautifulsoup4==4.12.3
+lxml==5.1.0
+
+# Database
+aiosqlite==0.20.0
+
+# Environment Variables
+python-dotenv==1.0.1
+
+# Async Utilities
+asyncio==3.4.3
+
+# Fake Device Data (Fingerprinting)
+faker==23.2.1
+
+# Scheduling Background Tasks
+apscheduler==3.10.4
+
+# Cryptography (Session Security)
+cryptography==42.0.2
+
+# Logging
+loguru==0.7.2
+
+# Utilities
+ua-parser==0.18.0
+user-agents==2.2.0
+pytz==2024.1
